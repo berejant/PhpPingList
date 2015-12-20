@@ -1,6 +1,7 @@
 <?php
 
 $ips = array (
+    'www.yandex.ua',
     's37d.storage.yandex.net',
     's29f.storage.yandex.net',
     's17g.storage.yandex.net',
